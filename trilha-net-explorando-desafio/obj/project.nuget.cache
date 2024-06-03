@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5cIWlssuV0rZQ8IG5gpCSgHxlZP6QIwhFxTU6O04L1bEdhyPG8/cFt3ejxs0zgCadhr9vOAHH4bTvaBTB9nUw==",
+  "dgSpecHash": "sv7z436Qlf8Gwi+X+FR2mzEUmR/jGKvnc/kKulpri4yhDwrCEXkh3B62m3Ba2tC+I8J8lwRTC4oFXlkUnGHdgA==",
   "success": true,
-  "projectFilePath": "/home/rangel/git-dev/C#/playgrandC#/trilha-net-explorando-desafio/trilha-net-explorando-desafio.csproj",
+  "projectFilePath": "/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-explorando-desafio/trilha-net-explorando-desafio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

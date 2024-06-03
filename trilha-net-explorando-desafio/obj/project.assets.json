@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rangel/git-dev/C#/playgrandC#/trilha-net-explorando-desafio/trilha-net-explorando-desafio.csproj",
+      "projectUniqueName": "/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-explorando-desafio/trilha-net-explorando-desafio.csproj",
       "projectName": "trilha-net-explorando-desafio",
-      "projectPath": "/home/rangel/git-dev/C#/playgrandC#/trilha-net-explorando-desafio/trilha-net-explorando-desafio.csproj",
+      "projectPath": "/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-explorando-desafio/trilha-net-explorando-desafio.csproj",
       "packagesPath": "/home/rangel/.nuget/packages/",
-      "outputPath": "/home/rangel/git-dev/C#/playgrandC#/trilha-net-explorando-desafio/obj/",
+      "outputPath": "/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-explorando-desafio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rangel/.nuget/NuGet/NuGet.Config"
