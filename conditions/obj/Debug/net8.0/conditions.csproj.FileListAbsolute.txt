@@ -1,0 +1,14 @@
+/home/rangel/git-dev/C#/conditions/bin/Debug/net8.0/conditions
+/home/rangel/git-dev/C#/conditions/bin/Debug/net8.0/conditions.deps.json
+/home/rangel/git-dev/C#/conditions/bin/Debug/net8.0/conditions.runtimeconfig.json
+/home/rangel/git-dev/C#/conditions/bin/Debug/net8.0/conditions.dll
+/home/rangel/git-dev/C#/conditions/bin/Debug/net8.0/conditions.pdb
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/conditions.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/conditions.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/conditions.AssemblyInfo.cs
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/conditions.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/conditions.dll
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/refint/conditions.dll
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/conditions.pdb
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/conditions.genruntimeconfig.cache
+/home/rangel/git-dev/C#/conditions/obj/Debug/net8.0/ref/conditions.dll

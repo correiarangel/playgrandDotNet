@@ -1,0 +1,14 @@
+/home/rangel/git-dev/C#/ExploreFile/obj/Debug/net8.0/ExploreFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/ExploreFile/obj/Debug/net8.0/ExploreFile.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/ExploreFile/obj/Debug/net8.0/ExploreFile.AssemblyInfo.cs
+/home/rangel/git-dev/C#/ExploreFile/obj/Debug/net8.0/ExploreFile.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/explorefile/bin/Debug/net8.0/ExploreFile
+/home/rangel/git-dev/C#/explorefile/bin/Debug/net8.0/ExploreFile.deps.json
+/home/rangel/git-dev/C#/explorefile/bin/Debug/net8.0/ExploreFile.runtimeconfig.json
+/home/rangel/git-dev/C#/explorefile/bin/Debug/net8.0/ExploreFile.dll
+/home/rangel/git-dev/C#/explorefile/bin/Debug/net8.0/ExploreFile.pdb
+/home/rangel/git-dev/C#/explorefile/obj/Debug/net8.0/ExploreFile.dll
+/home/rangel/git-dev/C#/explorefile/obj/Debug/net8.0/refint/ExploreFile.dll
+/home/rangel/git-dev/C#/explorefile/obj/Debug/net8.0/ExploreFile.pdb
+/home/rangel/git-dev/C#/explorefile/obj/Debug/net8.0/ExploreFile.genruntimeconfig.cache
+/home/rangel/git-dev/C#/explorefile/obj/Debug/net8.0/ref/ExploreFile.dll

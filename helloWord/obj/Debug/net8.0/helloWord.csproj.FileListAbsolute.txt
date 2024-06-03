@@ -1,0 +1,14 @@
+/home/rangel/git-dev/C#/helloWord/bin/Debug/net8.0/helloWord
+/home/rangel/git-dev/C#/helloWord/bin/Debug/net8.0/helloWord.deps.json
+/home/rangel/git-dev/C#/helloWord/bin/Debug/net8.0/helloWord.runtimeconfig.json
+/home/rangel/git-dev/C#/helloWord/bin/Debug/net8.0/helloWord.dll
+/home/rangel/git-dev/C#/helloWord/bin/Debug/net8.0/helloWord.pdb
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/helloWord.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/helloWord.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/helloWord.AssemblyInfo.cs
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/helloWord.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/helloWord.dll
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/refint/helloWord.dll
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/helloWord.pdb
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/helloWord.genruntimeconfig.cache
+/home/rangel/git-dev/C#/helloWord/obj/Debug/net8.0/ref/helloWord.dll

@@ -1,0 +1,15 @@
+/home/rangel/git-dev/C#/calc/bin/Debug/net8.0/calc
+/home/rangel/git-dev/C#/calc/bin/Debug/net8.0/calc.deps.json
+/home/rangel/git-dev/C#/calc/bin/Debug/net8.0/calc.runtimeconfig.json
+/home/rangel/git-dev/C#/calc/bin/Debug/net8.0/calc.dll
+/home/rangel/git-dev/C#/calc/bin/Debug/net8.0/calc.pdb
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.AssemblyInfo.cs
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.dll
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/refint/calc.dll
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.pdb
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.genruntimeconfig.cache
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/ref/calc.dll
+/home/rangel/git-dev/C#/calc/obj/Debug/net8.0/calc.csproj.AssemblyReference.cache

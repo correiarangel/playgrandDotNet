@@ -1,0 +1,14 @@
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/bin/Debug/net8.0/propiedMetodCosntrutores
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/bin/Debug/net8.0/propiedMetodCosntrutores.deps.json
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/bin/Debug/net8.0/propiedMetodCosntrutores.runtimeconfig.json
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/bin/Debug/net8.0/propiedMetodCosntrutores.dll
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/bin/Debug/net8.0/propiedMetodCosntrutores.pdb
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/propiedMetodCosntrutores.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/propiedMetodCosntrutores.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/propiedMetodCosntrutores.AssemblyInfo.cs
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/propiedMetodCosntrutores.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/propiedMetodCosntrutores.dll
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/refint/propiedMetodCosntrutores.dll
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/propiedMetodCosntrutores.pdb
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/propiedMetodCosntrutores.genruntimeconfig.cache
+/home/rangel/git-dev/C#/propiedMetodCosntrutores/obj/Debug/net8.0/ref/propiedMetodCosntrutores.dll

@@ -1,0 +1,14 @@
+/home/rangel/git-dev/C#/array/bin/Debug/net8.0/array
+/home/rangel/git-dev/C#/array/bin/Debug/net8.0/array.deps.json
+/home/rangel/git-dev/C#/array/bin/Debug/net8.0/array.runtimeconfig.json
+/home/rangel/git-dev/C#/array/bin/Debug/net8.0/array.dll
+/home/rangel/git-dev/C#/array/bin/Debug/net8.0/array.pdb
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/array.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/array.AssemblyInfo.cs
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/array.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/array.dll
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/refint/array.dll
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/array.pdb
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/array.genruntimeconfig.cache
+/home/rangel/git-dev/C#/array/obj/Debug/net8.0/ref/array.dll

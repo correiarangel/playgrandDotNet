@@ -1,0 +1,14 @@
+/home/rangel/git-dev/C#/queue/bin/Debug/net8.0/queue
+/home/rangel/git-dev/C#/queue/bin/Debug/net8.0/queue.deps.json
+/home/rangel/git-dev/C#/queue/bin/Debug/net8.0/queue.runtimeconfig.json
+/home/rangel/git-dev/C#/queue/bin/Debug/net8.0/queue.dll
+/home/rangel/git-dev/C#/queue/bin/Debug/net8.0/queue.pdb
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/queue.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/queue.AssemblyInfo.cs
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/queue.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/queue.dll
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/refint/queue.dll
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/queue.pdb
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/queue.genruntimeconfig.cache
+/home/rangel/git-dev/C#/queue/obj/Debug/net8.0/ref/queue.dll
