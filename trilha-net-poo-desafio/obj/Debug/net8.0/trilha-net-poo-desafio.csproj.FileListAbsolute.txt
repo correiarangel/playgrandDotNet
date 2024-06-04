@@ -1,0 +1,15 @@
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/bin/Debug/net8.0/trilha-net-poo-desafio
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/bin/Debug/net8.0/trilha-net-poo-desafio.deps.json
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/bin/Debug/net8.0/trilha-net-poo-desafio.runtimeconfig.json
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/bin/Debug/net8.0/trilha-net-poo-desafio.dll
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/bin/Debug/net8.0/trilha-net-poo-desafio.pdb
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.AssemblyInfoInputs.cache
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.AssemblyInfo.cs
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.sourcelink.json
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.dll
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/refint/trilha-net-poo-desafio.dll
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.pdb
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/trilha-net-poo-desafio.genruntimeconfig.cache
+/home/rangel/git-dev/C#/playgrandDotNet/trilha-net-poo-desafio/obj/Debug/net8.0/ref/trilha-net-poo-desafio.dll

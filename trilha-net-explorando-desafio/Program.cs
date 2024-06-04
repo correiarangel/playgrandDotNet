@@ -3,24 +3,25 @@ using DesafioProjetoHospedagem.Models;
 
 internal class Program
 {
-    private static void Main(string[] args)
-    {
-        Console.OutputEncoding = Encoding.UTF8;
+         private static void Main(string[] args)
+        {
+            Console.OutputEncoding = Encoding.UTF8;
 
-        // Cria os modelos de hóspedes e cadastra na lista de hóspedes
-        List<Pessoa> hospedes = CreateListUser();
+            // Cria os modelos de hóspedes e cadastra na lista de hóspedes
+            List<Pessoa> hospedes = CreateListUser();
 
-        // Cria a suíte
-        Suite suite = CreateSuite();
+            // Cria a suíte
+            Suite suite = CreateSuite();
 
-        // Cria uma nova reserva, passando a suíte e os hóspedes
-        Reserva reserva = CreateReservas(suite, hospedes);
+            // Cria uma nova reserva, passando a suíte e os hóspedes
+            Reserva reserva = CreateReservas(suite, hospedes);
 
-        // Exibe a quantidade de hóspedes e o valor da diária
-        Console.WriteLine($"Hóspedes: {reserva.ObterQuantidadeHospedes()}");
-        Console.WriteLine($"Valor diária: {reserva.CalcularValorDiaria()}");
+            // Exibe a quantidade de hóspedes e o valor da diária
+            Console.WriteLine($"Hóspedes: {reserva.ObterQuantidadeHospedes()}");
+            Console.WriteLine($"Valor diária: {reserva.CalcularValorDiaria()}");
 
-    }
+        } 
+
     static List<Pessoa> CreateListUser()
     {
         List<Pessoa> hospedes = new List<Pessoa>();
